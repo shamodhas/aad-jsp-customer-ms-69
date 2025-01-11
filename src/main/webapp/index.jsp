@@ -10,6 +10,10 @@
 <a href="customer-save.jsp">Add New Customer</a>
 <br/>
 <a href="customer-list">View All Customers</a>
+<br/>
+<a href="customer-delete.jsp">Delete Customer</a>
+<br/>
+<a href="customer-update.jsp">Update Customer</a>
 
 </body>
 </html>
